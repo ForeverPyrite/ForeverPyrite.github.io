@@ -1,2 +1,2 @@
 # ForeverPyrite.github.io
-ForeverPyrite's main siteu
+ForeverPyrite's main site
