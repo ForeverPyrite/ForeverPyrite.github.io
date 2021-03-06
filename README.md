@@ -1,2 +1,2 @@
-# ForeverPyrite.github.io
+# ForeverPyrite.com
 ForeverPyrite's main site
